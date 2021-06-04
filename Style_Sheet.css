@@ -19,3 +19,6 @@ a:active {color: black;
     background-color: transparent;
     text-decoration: none;}    
     
+body {margin: 0;
+}    
+.container {width: 100vw;height: 100vw;}
